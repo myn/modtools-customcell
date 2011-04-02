@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Mod Tools</string>
+	<!-- About Strings -->
+	<string name="about_comments">Auto-updater for the Android OS.</string>
+	<string name="about_credits">Daniel Jones - Custom Cell\nWeb: www.CustomCell.net\nEmail: info@customcell.net\nPhone: (801) 999-8793\n\n</string>
+	<string name="about_copyright">Copyright © 2011 Custom Cell</string><!-- Add your name here, separated with comma's, if you helped out -->
+	<string name="about_website_label">Custom Cell Website</string>
+	<string name="about_website_url">http://www.CustomCell.net</string>
+	<string name="about_email">http://forum.xda-developers.com/private.php?do=newpm&amp;u=692686</string>
+
+	<!-- Config Strings -->
+	<string name="conf_update_server_url_def">http://www.customcell.net/CustomCellUpdater/update_file.json</string>
+	<string name="conf_theme_version_file_def">/system/framework/themes.theme</string>
+	<string name="conf_changelog_url">http://www.customcell.net/CustomCellUpdater/changelog.xml</string>
+	<string name="conf_featured_themes_url">http://www.customcell.net/CustomCellUpdater/FeaturedThemes.xml</string>
+
+	<!-- About dialog -->
+	<string-array name="about_authors">
+        	<item>Sergi Vélez http://code.google.com/p/jfupdater</item>
+        	<item>Darkrift http://android-dls.com</item>
+        	<item>Dan Poulsen</item>
+		<item>FireFart</item>
+		<item>senab</item>
+	<item>myn</item>
+</string-array>
+
+	<string-array name="about_translators">
+		<item>FireFart</item>
+		<item>DavidChill</item>
+		<item>Moksha</item>
+		<item>Gamempire</item>
+		<item>Wiebbe</item>
+		<item>Chahk</item>
+		<item>Offcina</item>
+		<item>ss1271</item>
+		<item>baggus</item>
+		<item>kog</item>
+		<item>ZilverZurfan</item>
+		<item>Jar0b_</item>
+		<item>zezol</item>
+	</string-array>
+
+	<string-array name="about_artists">
+		<item>prash</item>
+		<item>matt_stang</item>
+	<item>myn</item>
+</string-array>
+</resources>
